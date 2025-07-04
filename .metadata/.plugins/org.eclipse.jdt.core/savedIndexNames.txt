@@ -1,0 +1,23 @@
+INDEX VERSION 1.134+C:\Users\ivand\Documents\fakultet\RIS\.metadata\.plugins\org.eclipse.jdt.core
+1298032112.index
+4074003289.index
+3170139149.index
+1770739158.index
+2346033224.index
+1190850015.index
+1347647854.index
+822858674.index
+3495196815.index
+668462353.index
+2117767971.index
+4104420695.index
+3965878871.index
+3353664551.index
+2777247669.index
+3931675556.index
+1510991715.index
+1269653709.index
+1865797976.index
+3837716308.index
+708192046.index
+2605970364.index
